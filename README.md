@@ -1,6 +1,7 @@
 # osx provisioning playbook
  
 Inspired by https://github.com/mawatari/mac-provisioning
+Forked from https://github.com/shin1x1/osx-provisioning-with-ansible
  
 ## Usage
  
