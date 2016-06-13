@@ -1,44 +1,54 @@
 ---
+homebrew_repositories:
+
 homebrew_packages:
-  - git
-  - tmux
-  - tig
   - ansible
-  - wget
-  - curl
-  - jq
-  - vim
-  - reattach-to-user-namespace
-  - rbenv
-  - ruby-build
   - awscli
-  - npm
-  - tree
+  - curl
+  - git
   - heroku-toolbelt
+  - jq
+  - npm
+  - rbenv
+  - reattach-to-user-namespace
+  - ruby-build
+  - tig
+  - tmux
+  - tree
+  - vim
+  - wget
+
+homebrew_cask_repositories:
 
 homebrew_cask_packages:
-  - java
-  - iterm2
-  - google-chrome
-  - firefox
-  - virtualbox
-  - vagrant
-#  - kobito
-  - evernote
-  - skitch
-  - slack
-  - github-desktop
-  - bettertouchtool
-  - coteditor
-  - mi
-  - istat-menus
-  - xmind
   - atom
+  - bettertouchtool
   - chefdk
   - clipy
-  - marked
+  - coteditor
+  - evernote
+  - firefox
   - flash
-  - kindle
-  - transmit
+  - github-desktop
+  - google-chrome
   - google-drive
+  - istat-menus
+  - iterm2
+  - java
+  - kindle
+  - marked
+  - mi
+  - skitch
+  - slack
   - spectacle
+  - transmit
+  - vagrant
+  - virtualbox
+  - xmind
+
+ruby_global_version: 2.3.1
+
+ruby_install_gems:
+  - bundler
+#  - kobito
+  - serverspec
