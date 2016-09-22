@@ -22,29 +22,29 @@ homebrew_cask_repositories:
 
 homebrew_cask_packages:
   - atom
-  - bettertouchtool
-  - chefdk
-  - clipy
-  - coteditor
+#  - bettertouchtool
+#  - chefdk
+#  - clipy
+#  - coteditor
   - evernote
   - firefox
   - flash
   - github-desktop
   - google-chrome
   - google-drive
-  - istat-menus
+#  - istat-menus
   - iterm2
   - java
   - kindle
-  - marked
-  - mi
-  - skitch
+#  - marked
+#  - mi
+#  - skitch
   - slack
-  - spectacle
-  - transmit
+#  - spectacle
+#  - transmit
   - vagrant
   - virtualbox
-  - xmind
+#  - xmind
 
 ruby_global_version: 2.3.1
 
