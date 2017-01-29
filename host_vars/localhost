@@ -26,6 +26,7 @@ homebrew_cask_packages:
 #  - chefdk
 #  - clipy
 #  - coteditor
+  - docker
   - evernote
   - firefox
   - flash
