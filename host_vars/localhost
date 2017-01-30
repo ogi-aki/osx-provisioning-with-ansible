@@ -22,11 +22,7 @@ homebrew_cask_repositories:
 
 homebrew_cask_packages:
   - atom
-#  - bettertouchtool
   - bash-completion
-#  - chefdk
-#  - clipy
-#  - coteditor
   - docker
   - evernote
   - firefox
@@ -34,23 +30,15 @@ homebrew_cask_packages:
   - github-desktop
   - google-chrome
   - google-drive
-#  - istat-menus
   - iterm2
   - java
   - kindle
-#  - marked
-#  - mi
-#  - skitch
   - slack
-#  - spectacle
-#  - transmit
   - vagrant
   - virtualbox
-#  - xmind
 
 ruby_global_version: 2.3.1
 
 ruby_install_gems:
   - bundler
-#  - kobito
   - serverspec
